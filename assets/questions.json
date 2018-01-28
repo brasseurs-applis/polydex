@@ -1,0 +1,65 @@
+[
+  {
+    "question" : "Tu es à une soirée déguisée des animaux de la forêt, et un.e renard.e t’a tapé.e dans l’oeil. Vous flirtez un peu, et iel finit par t’annoncer, un peu contrit.e, la terrible nouvelle. Iel est mono. Tu réponds...",
+    "answers" : [
+      { "text" : "“La monogamie est une structure institutionnelle oppressive et ton corps t’appartient.”", "value" : "air" },
+      { "text" : "“On ne fera rien tant que tu n’auras pas clarifié les choses avec ta moitié.”", "value" : "terre" },
+      { "text" : "“Je comprends. Bonne soirée.”", "value" : "eau" },
+      { "text" : "“J’ai très envie de toi. Tu fais ce que tu veux, moi dans dix minutes je serai dans la chambre juste là. Nu.e”", "value" : "feu" }
+    ]
+  },
+  {
+    "question" : "Aujourd’hui, une des personnes que tu fréquentes te présente une des personnes qu’elle fréquente, et tu ressens comme un pincement dans la poitrine en les voyant se câliner.",
+    "answers" : [
+      { "text" : "Tu leur dis qu’elles sont très mignonnes ensemble. Ta jalousie ne les concerne pas.", "value" : "eau" },
+      { "text" : "Tu expliques que tu es jaloux.se, et tu leur demandes de l’aide.", "value" : "terre" },
+      { "text" : "Tu culpabilises, tu serres les poings, et tu finis par gueuler/pleurer/draguer la personne que ton ami.e te présente.", "value" : "feu" },
+      { "text" : "Tu rationalises. C’est normal d’être jaloux.se, en plus ce métamour (terme pour désigner les partenaires de mes partenaires) ressemble beaucoup à un.e de tes ex avec qui ça s’était très mal passé. Tout va bien. Tout va bien. Tu te dis qu’il faudrait que tu écrives un article sur la jalousie.", "value" : "air" }
+    ]
+  },
+  {
+    "question" : "Tu n’es plus amoureux.se d’un.e de tes partenaires.",
+    "answers" : [
+      { "text" : "Tu te laisses un peu de temps pour digérer. Quand tu te sens prêt.e, tu annonces la nouvelle avec des cookies et des câlins.", "value" : "eau" },
+      { "text" : "Tu l’appelles pour lea quitter, finalement tu lui dis que tu l’aimes, et puis tu le rappelles pour lea quitter, et puis finalement tu lui dis que tu aimes quelqu’un d’autre. Tu écoutes “At last” d’Etta James.", "value" : "feu" },
+      { "text" : "Tu lui écris une lettre. Puis tu te dis qu’une lettre arrivera trop tard. Tu écris un mail. Tu corriges le mail. Tu demandes à un.e partenaire de t’aider à écrire. Tu ne dors pas. Tu te demandes au fond ce qu’est l’amour.", "value" : "air" },
+      { "text" : "Tu lui donnes rdv dans un café pour lui expliquer la situation. Tu proposes de gérer le matériel de la rupture. Ce sont des choses qui arrivent.", "value" : "terre" }
+    ]
+  },
+  {
+    "question" : "Finalement, lea renard.e n’est plus mono. Vous commencez à vous fréquenter, et tu es en pleine NRE (énergie de la nouvelle relation, lune de miel).",
+    "answers" : [
+      { "text" : "Tu préviens tes partenaires “historiques” et “domestiques” que tu risques d’être moins dispo ces prochains mois, et tu disparais.", "value" : "air" },
+      { "text" : "Vous décidez d’une période de “monogamie de fait” pour pouvoir installer votre couple, et tu mets fin à tes autres relations, au moins temporairement.", "value" : "eau" },
+      { "text" : "Tu ne t’emballes pas et tu mets en place un planning pour ne pas abandonner tes autres partenaires.", "value" : "terre" },
+      { "text" : "Tu te lances corps et âme dans cette nouvelle relation. L’amour n’attend pas.", "value" : "feu" }
+    ]
+  },
+  {
+    "question" : "Un.e partenaire a un chagrin d’amour.",
+    "answers" : [
+      { "text" : "Tu lui réserves ta journée pour faire des petits dessins, sortir et s’asseoir sous un arbre centenaire, danser et faire l’amour.", "value" : "eau" },
+      { "text" : "Tu lui réserves ta journée pour discuter de ce qui s’est passé, analyser le comportement du métamour, et replacer ça dans un contexte plus global", "value" : "air" },
+      { "text" : "Tu appelles le métamour impliqué pour prendre des nouvelles et lui dire que ça ne changera rien à votre relation, tu demandes à ton amoureux.se ce dont iel a besoin et tu t’en occupes.", "value" : "terre" },
+      { "text" : "Tu lui réserves ta journée pour qu’iel pleure sur ton épaule, tu lui dis qu’iel est la plus belle personne que tu aies jamais aimé.e, et que c’est incompréhensible que l’autre ne le voit pas.", "value" : "feu" }
+    ]
+  },
+  {
+    "question" : "Un.e partenaire a trahi ta confiance/a fait quelque chose de grave pour toi.",
+    "answers" : [
+      { "text" : "Tu mets fin à la relation. Quand la confiance dans une relation est brisée, il n’y a rien à faire.", "value" : "terre" },
+      { "text" : "Tu n’arrives pas à croire qu’iel ait pu te faire un coup pareil. Tu la détestes. Tu mets fin à la relation et tu coupes tout contact. Un mois plus tard, tu lea rappelles pour lui dire que c’est trop con, que vous allez vous battre et que tu l’aimeras toujours.", "value" : "feu" },
+      { "text" : "Tu mets de la distance, et tu ne t’exposes pas à sa présence pendant un certain temps. Tu prends soin de toi.", "value" : "eau" },
+      { "text" : "Tu essaies de comprendre ce qui a bien pu se passer, comment iel a pu arriver à te mentir. Tu lui poses des questions. Tu ne dors pas.", "value" : "air" }
+    ]
+  },
+  {
+    "question" : "Un.e partenaire que tu fréquentes depuis très longtemps te donne rendez-vous en disant “il faut qu’on parle”. Iel t’explique que le polyamour, iel a essayé mais finalement, iel préfèrerait que vous soyez monogames. C’est mort, mais comment lui dire ?",
+    "answers" : [
+      { "text" : "“Non merci.”", "value" : "eau" },
+      { "text" : "“Est-ce que j’ai fait quelque chose de mal ? S’il te plaît ne me quitte pas, je vais faire des efforts ! Mais t’es horrible en fait. De toutes façons j’ai plus de sentiments pour toi ça tombe bien.”", "value" : "feu" },
+      { "text" : "“C’était clair depuis le début. On en a déjà discuté, j’ai exposé mes arguments et tu as exposé les tiens, maintenant s’il faut prendre une décision : c’est fini.”", "value" : "terre" },
+      { "text" : "“Je ne suis pas d’accord avec toi, en fait j’ai l’impression que le problème dans notre relation c’est plutôt que...”", "value" : "air" }
+    ]
+  }
+]
